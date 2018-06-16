@@ -1,1 +1,1 @@
-Hi, My first new file in GIT on 16th June 2018
+Hi, My first new file in GIT on 16th June 2018 .. I modified it for 2nd time now.
